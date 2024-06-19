@@ -13,6 +13,7 @@ export default function Todo() {
             />
             <TodoList 
                 todos = { todos }
+                setTodos = { setTodos }
             />
         </div>
     );
