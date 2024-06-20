@@ -36,3 +36,7 @@
 .line {
     border: 1px solid #f4f4f4;
 }
+
+.completed {
+    text-decoration: line-through;
+}
